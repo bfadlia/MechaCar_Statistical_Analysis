@@ -1,9 +1,17 @@
 # MechaCar_Statistical_Analysis
 
+## Overview
+In this challengewe are trying to do the following to help a car manufacturing company statistically analyze data to overcome several manufacturing problems:
+
+- Perform multiple linear regression analysis to identify hte variables in the dataset that affect the mpg of MechaCar prototypes and the ones that don't
+- Collect summary statistics on the PSI of the suspension coils from the manufacturing lots
+- Run t-tests to determine if the manufacturing lots are statistically different from the population mean
+- Design a statistical study to compare vehicle performance of the MechaCar vehicles against competitors cars
+
+
 
 ## Linear Regression to Predict MPG
 
-![IMAGE_DESCRIPTION](/Images/deliv1.png)
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
@@ -16,6 +24,9 @@
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
   The r-squared value was 0.715, so there was a 71.5% chance that future data points will fit this model. So the linear model predicts the mpg of MechaCar prototypes effectively. Other factors not captured might be contributing to the mpg variability of the MechaCar prototypes.
+  
+  ![IMAGE_DESCRIPTION](/Images/deliv1.png)
+  
   
 ## Summary Statistics on Suspension Coils,
 
