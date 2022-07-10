@@ -30,14 +30,18 @@ In this challengewe are trying to do the following to help a car manufacturing c
   
 ## Summary Statistics on Suspension Coils,
 
-![IMAGE_DESCRIPTION](/Images/deliv2-summary.png)
-![IMAGE_DESCRIPTION](/Images/deliv2-total.png)
+- ![IMAGE_DESCRIPTION](/Images/deliv2-summary.png)
+- ![IMAGE_DESCRIPTION](/Images/deliv2-total.png)
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
   The overall variance compled with the limit 100 psi and meets specifications. Looking at individual lots we can see that lots 1 and 2 meet the specifications while lot 3's variance is well over the threshold, at 170.28.
 
 
+
+
 ## T-Tests on Suspension Coils
+
+
 
 - Results of the T-test for the suspension coils across all manufacturing lots with a p-value of 1 is not low enough  for us to reject the null hypothesis.It is not statistically different from the population mean.
 
@@ -48,6 +52,9 @@ In this challengewe are trying to do the following to help a car manufacturing c
 - Results of the T-test for the suspension coils from lot 3 with a p-value of 0.0417 is les than 0.05 so we can reject the null hypothesis. It is very close to the 0.05 limit so this lot may need closer evaluation.
 
 ![IMAGE_DESCRIPTION](/Images/deliv3.png)
+
+
+
 
 ## Study Design: MechaCar vs Competition
 
